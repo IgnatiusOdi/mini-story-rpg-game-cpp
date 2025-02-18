@@ -1,5 +1,5 @@
 # mini-story-rpg-game-cpp
-## Tugas Akhir Asistensi Introduction to Programming (ITP) membuat game sederhana
+## Tugas Akhir Asistensi Intro to Programming (ITP) membuat game sederhana
 ### Tujuan:
 - Membuat game sederhana untuk memenuhi Tugas Akhir Asistensi ITP
 
