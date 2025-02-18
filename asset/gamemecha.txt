@@ -1,0 +1,23 @@
+Game mechanic
+
+Player
+Health / MaxHealth
+XP / LevelXP
+Gold
+Base Damage
+
+Weapon
+Weapon (level) (sword,bow)
+Weapon damage
+Crit damage
+
+Merchant (M)
+Sell Item
+Level Up (+health +xp +base damage)
+Upgrade Weapon
+
+Enemy (X)
+Random 3 (small, medium, big)
+Health
+Defense
+Damage

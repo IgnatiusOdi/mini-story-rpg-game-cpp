@@ -1,0 +1,82 @@
+	Prologue
+Narrator: Hello, are you dead?\n
+?: Where am i?\n
+Narrator: Hey, you're finally awake.\n
+?: Who are you?\n
+Narrator: I am your narrator.\n
+?: Narrator? Is it a God?\n
+Narrator: Well yes, but actually no.\n
+?: Who am i?\n
+Narrator: I don't know. What should i call you?\n
+What's your name? "Odi"
+Odi: Odi.
+Narrator: Great, Odi. Now let's start our adventure.\n
+
+	Dialogue 1
+Odi: Hey, what should I do?\n
+Narrator: Kill the Ancient Wisp\n
+Odi: ???\n
+Narrator: Try press esc key to pause game to see your status and change weapon you want to use\n
+\t  Type the word in the battle either attack / guard / heal / run\n
+\t  Try to slay an enemy there.\n
+
+	Dialogue 2
+Narrator: You will get exp and gold every time you slay a wisp.\n
+\t  You need exp to level up. Level up means increasing max health and base damage.\n
+\t  Meet the Merchant in the castle to spend your gold.\n
+\t  Anyway, you're the most talented adventurer I've ever seen.\n
+	
+	Dialogue 3
+Narrator: Here we are, in the heart of the castle.\n
+\t  Before you can enter the Ancient Wisp room you need to get stronger first.\n
+
+	Merchant
+Merchant: Welcome Adventurer! I've been waiting for you! What do you need?\n
+*done upgrading*
+Merchant: Thank you! Come back later!\n
+
+	Dialogue 4
+Narrator: Good job, now you're ready to face the Ancient Wisp.\n
+\t  Enter the Ancient Wisp room whenever you're ready.\n
+
+	Dialogue 5
+Ancient Wisp: Knight, you're finally here! What takes you so long?\n
+Odi: Knight?\n
+Narrator: You nasty evil wisp, you shall die before this adventurer hand.\n
+Ancient Wisp: Who are you? What have you done to my beloved Knight.\n
+Odi: I don't understand this situation.\n
+Narrator: Don't listen to this thing, Odi. It will only confuse you, just trust me!\n
+Ancient Wisp: The choice is yours, dear Knight.\n
+
+	Face Wisp Dialogue
+Ancient Wisp: Looks like you aren't trustworthy enough for me, farewell my old beloved Knight.\n
+
+	Betray Narrator Dialogue
+Narrator: After all I've done for you, you dare betray me?!\n
+*Narrator reveal itself as Lord of Death*\n
+Lord of Death: Let's see if you have enough power to beat me!\n
+
+	Trust Nobody Dialogue
+Odi: I'm not gonna trust anybody!!!
+
+	Bad Ending Dialogue
+It turns out that you're Guardian Knight of the Wisp\n
+Lord of Death: Hahaha, fool Guardian you've fallen into my trap. You make my life easier.\n
+Lord of Death: I'm the strongest here. Every one shall bow before me. Thou shall die here.\n
+Lord of Death: Goodbye.\n
+
+	Good Ending Dialogue
+It turns out that you're Guardian Knight of the Wisp\n
+Ancient Wisp: You prove yourself trustworthy Guardian. I owe thou my life.\n
+\t\tThank You
+
+	Mistrust Ending Dialogue
+Congratulations for become the new Castle God.\n
+You really prove yourself capable handle such great power.\n
+What should you do now then?\n
+Maybe you should think twice before make a decision? No? Okay, not a problem\n
+
+	Epilogue
+'For there to be betrayal, there would have to have been trust first.' ~ Suzanne Collins ~\n
+<(_ _*)> Thank you for playing the game <(_ _*)>\n
+See you in the next game\n
